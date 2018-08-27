@@ -1,0 +1,17 @@
+.BMP280 :1 ;Digital Pressure Sensor
+"8-PIN-METAL-LID-LGA_1"
+*STM IC
+*NGS
+*PLB 1="GND_1" 2="CSB" 3="SDI" 4="SCK" 5="SDO" 6="VDDIO" 7="GND_2" 8="VDD"
+*MXP 8
+*DFN BMP280
+~!Manufacturer_Name (Bosch)
+~!Manufacturer_Part_Number (BMP280)
+~!RS Part Number (-)
+~!RS Price/Stock (-)
+~!Arrow Part Number (BMP280)
+~!Link Arrow Price/Stock (https://www.arrow.com/en/products/bmp280/bosch)
+~!Link Datasheet (https://ae-bst.resource.bosch.com/media/_tech/media/datasheets/BST-BMP280-DS001-19.pdf)
+~!Height (-)
+BMP280
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 6.1!U 7.1!U 8.1!U 

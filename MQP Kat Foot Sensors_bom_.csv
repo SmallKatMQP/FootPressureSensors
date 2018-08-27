@@ -1,0 +1,26 @@
+Component,Description,Part,References,Value,Footprint,Quantity Per PCB,Datasheet,Manufacturer_Name,Arrow Part Number,Arrow Price/Stock,Manufacturer_Part_Number
+1,Unpolarized capacitor,C,C3 C4 C5 C6 C7 C8 C9 C10 C11 C12 C13 C14 C15 C16,100NF,C_0402_1005Metric,14,~,,,,
+2,Unpolarized capacitor,C,C1 C2,10PF,C_0402_1005Metric,2,~,,,,
+3,Unpolarized capacitor,C,C17 C18,C,C_0402_1005Metric,2,~,,,,
+4,Digital Pressure Sensor,BMP280,IC1 IC2 IC3 IC4 IC5 IC6 IC7,BMP280,8-PIN-METAL-LID-LGA_1,7,https://ae-bst.resource.bosch.com/media/_tech/media/datasheets/BST-BMP280-DS001-19.pdf,Bosch,BMP280,https://www.arrow.com/en/products/bmp280/bosch,BMP280
+5,"Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)",Conn_01x04_Male,J2,Conn_01x04_Male,1x4Pads,1,~,,,,
+6,"Generic connector, single row, 01x06, script generated (kicad-library-utils/schlib/autogen/connector/)",Conn_01x06_Male,J1,Conn_01x06_Male,Molex_CLIK-Mate_502443-0670_1x06-1MP_P2.00mm_Vertical,1,~,,,,
+7,Resistor,R,R1,100K,R_0402_1005Metric,1,~,,,,
+8,"300mA Low-dropout Voltage Regulator, Vout 3.0V, Vin up to 5.5V, SOT-23",MIC5501-3.0YM5,U2,MIC5501-3.0YM5,SOT-23-5,1,http://ww1.microchip.com/downloads/en/DeviceDoc/MIC550X.pdf,,,,
+9,"ARM Cortex-M4 MCU, 128KB flash, 64KB RAM, 80MHz, 1.71-3.6V, 26 GPIO, UFQFPN-32",STM32L432KBUx,U1,STM32L432KBUx,QFN-32-1EP_5x5mm_P0.5mm_EP3.45x3.45mm,1,http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/DM00257205.pdf,,,,
+10,"Four pin crystal (GND on pins 2 and 4), e.g. in SMD package",Crystal_GND24,Y1,Crystal_GND24,Crystal_SMD_2016-4Pin_2.0x1.6mm,1,~,,,,
+
+
+
+
+
+Component Groups:,10
+Component Count:,31
+Fitted Components:,31
+Number of PCBs:,1
+Total components:,31
+Schematic Version:,
+Schematic Date:,
+BoM Date:,Sun 26 Aug 2018 05:51:56 PM EDT
+Schematic Source:,/home/kbisland/Documents/MQP Kat Foot Sensors/MQP Kat Foot Sensors.sch
+KiCad Version:,Eeschema 5.0.0-fee4fd1~66~ubuntu16.04.1
